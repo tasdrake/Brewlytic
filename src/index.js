@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
-import Fermentation from './Components/Fermentation';
+import Fermentation from './Components/Fermentation.jsx';
 import './css/index.css';
 
 class App extends React.Component {
